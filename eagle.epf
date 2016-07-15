@@ -343,13 +343,13 @@ UsedLibrary="C:/Program Files (x86)/EAGLE-6.6.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.6.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.6.0/lbr/zetex.lbr"
 UsedLibrary="C:/Program Files (x86)/EAGLE-6.6.0/lbr/zilog.lbr"
-UsedLibrary="C:/Data/Dropbox/Zack/Documents/eagle/Libraries/custom-ds.lbr"
 UsedLibrary="C:/Data/Dropbox/Zack/Documents/eagle/Libraries/DRA818V.lbr"
+UsedLibrary="C:/Data/Dropbox/Zack/Documents/eagle/Libraries/custom-ds.lbr"
 
 [Win_1]
 Type="Control Panel"
 Loc="651 317 1250 716"
-State=1
+State=3
 Number=0
 
 [Desktop]

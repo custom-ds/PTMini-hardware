@@ -17111,9 +17111,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="U2" library="custom-ds" deviceset="CY8C4248AZI-L485" device="">
-<attribute name="DIGIKEY" value="428-3598-ND"/>
-</part>
+<part name="U2" library="custom-ds" deviceset="CY8C4248AZI-L485" device=""/>
 <part name="U6" library="DRA818V" deviceset="DRA818V" device=""/>
 <part name="U3" library="Ava" deviceset="UBLOX_MAX" device=""/>
 <part name="SG1" library="SparkFun-Electromechanical" deviceset="BUZZER" device="SMD">
@@ -17261,9 +17259,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <part name="C17" library="resistor" deviceset="C-US" device="C0805" value=".1uF">
 <attribute name="DIGIKEY" value="311-1361-1-ND"/>
 </part>
-<part name="J4" library="con-hirose" deviceset="MINI-USB-" device="UX60A-MB-5ST">
-<attribute name="DIGIKEY" value="H2961CT-ND"/>
-</part>
+<part name="J4" library="con-hirose" deviceset="MINI-USB-" device="UX60A-MB-5ST"/>
 </parts>
 <sheets>
 <sheet>
@@ -17278,9 +17274,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <text x="-60.96" y="2.54" size="1.778" layer="91">I2C EEPROM</text>
 </plain>
 <instances>
-<instance part="U2" gate="G$1" x="78.74" y="53.34">
-<attribute name="DIGIKEY" x="78.74" y="53.34" size="1.778" layer="96" display="off"/>
-</instance>
+<instance part="U2" gate="G$1" x="78.74" y="53.34"/>
 <instance part="U6" gate="G$1" x="208.28" y="144.78" rot="R270"/>
 <instance part="U3" gate="G$1" x="38.1" y="167.64" rot="MR270"/>
 <instance part="SG1" gate="G$1" x="116.84" y="96.52" rot="R270">
@@ -17428,9 +17422,7 @@ Source: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf</description>
 <instance part="C17" gate="G$1" x="-71.12" y="119.38">
 <attribute name="DIGIKEY" x="-71.12" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="J4" gate="G$1" x="226.06" y="5.08">
-<attribute name="DIGIKEY" x="226.06" y="5.08" size="1.778" layer="96" display="off"/>
-</instance>
+<instance part="J4" gate="G$1" x="226.06" y="5.08"/>
 </instances>
 <busses>
 </busses>

@@ -137,9 +137,9 @@
 Custom Digital
   Services, LLC
 www.custom-ds.com</text>
-<text x="11.7475" y="1.905" size="0.8128" layer="25" font="vector">3.7V</text>
-<text x="45.4025" y="7.3025" size="0.8128" layer="25" font="vector">Interfacing Port</text>
-<text x="57.15" y="8.89" size="0.6096" layer="25" font="vector" rot="R90">SCL
+<text x="11.7475" y="1.905" size="0.8128" layer="25">3.7V</text>
+<text x="45.4025" y="7.3025" size="0.8128" layer="25">Interfacing Port</text>
+<text x="57.15" y="8.89" size="0.6096" layer="25" rot="R90">SCL
 SDA
 +3.3V
 GND
@@ -151,7 +151,7 @@ SDA
 GND
 Rx
 Tx</text>
-<text x="26.035" y="40.9575" size="0.6096" layer="25" font="vector">Programming Header</text>
+<text x="26.035" y="40.9575" size="0.6096" layer="25">Programming Header</text>
 </plain>
 <libraries>
 <library name="custom-ds">
